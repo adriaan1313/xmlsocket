@@ -2,8 +2,8 @@
   "name": "xmlsocket",
   "version": "0.4.0",
   "description": "Flash's XMLSocket server and client for Node.js",
-  "main": "lib/XMLSocket.mjs",
-  "type": "module",
+  "main": "lib/XMLSocket.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
